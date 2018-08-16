@@ -5,7 +5,7 @@
 
 ## Requirements
 * Python 3.5
-* TensorFlow 1.0
+* TensorFlow 1.4.0
 * Numpy
 * cat and dog images [here](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data)
 
@@ -47,6 +47,6 @@ See the results below:
 ![2017-10-18-10-29-58](http://qiniu.xdpie.com/2017-10-18-10-29-58.png)
 
 ![2017-10-18-10-33-15](http://qiniu.xdpie.com/2017-10-18-10-33-15.png)
+
 ![2017-10-18-10-38-02](http://qiniu.xdpie.com/2017-10-18-10-38-02.png)
-    
  
